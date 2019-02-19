@@ -1,0 +1,14 @@
+h1{
+    font-size: 5rem;
+    font-weight: 300;
+}
+h4{
+    font-weight: 300;
+}
+.image-shadow{
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+    display: block;
+    box-shadow: 0 10px 15px 0 rgba(0,0,0,.3), 0 2px 10px 0 rgba(0,0,0,.3);
+}
